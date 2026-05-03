@@ -24,6 +24,7 @@ Profissional em transição de carreira para tech, com background sólido em fin
 | Projeto | Descrição | Tecnologia |
 |--------|-----------|------------|
 | [Analisador de Extrato Bancário](https://github.com/carlostiagooliveira-del/analisador-extrato-bancario) | Lê extratos CSV e gera resumo financeiro por categoria | Python |
+| [Painel de Fluxo de Caixa](https://github.com/carlostiagooliveira-del/painel-fluxo-caixa) | Dashboard visual de entradas, saídas e saldo mensal | Python + Matplotlib |
 
 ---
 

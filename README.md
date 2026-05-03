@@ -25,6 +25,7 @@ Profissional em transição de carreira para tech, com background sólido em fin
 |--------|-----------|------------|
 | [Analisador de Extrato Bancário](https://github.com/carlostiagooliveira-del/analisador-extrato-bancario) | Lê extratos CSV e gera resumo financeiro por categoria | Python |
 | [Painel de Fluxo de Caixa](https://github.com/carlostiagooliveira-del/painel-fluxo-caixa) | Dashboard visual de entradas, saídas e saldo mensal | Python + Matplotlib |
+| [Calculadora de Investimentos](https://carlostiagooliveira-del.github.io/calculadora-investimentos) | Simulador de juros compostos com link público na internet | HTML + JavaScript |
 
 ---
 

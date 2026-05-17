@@ -24,6 +24,7 @@ Profissional em transição de carreira para tech, com background sólido em fin
 ---
 ## 📊 GitHub Stats
 ![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlostiagooliveira-del&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlostiagooliveira-del&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 ---
 ## 📫 Contato

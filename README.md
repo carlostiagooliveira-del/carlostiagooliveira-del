@@ -23,9 +23,10 @@ Profissional em transição de carreira para tech, com background sólido em fin
 | [Calculadora de Investimentos](https://carlostiagooliveira-del.github.io/calculadora-investimentos) | Simulador de juros compostos com link público na internet | HTML + JavaScript |
 ---
 ## 📊 GitHub Stats
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlostiagooliveira-del&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlostiagooliveira-del&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=carlostiagooliveira-del&theme=tokyonight&hide_border=true&locale=pt_BR)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlostiagooliveira-del&layout=compact&theme=tokyonight&hide_border=true)
 ---
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-dados-e-finan%C3%A7as/)

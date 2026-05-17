@@ -26,7 +26,8 @@ Profissional em transição de carreira para tech, com background sólido em fin
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=carlostiagooliveira-del&theme=tokyonight&hide_border=true&locale=pt_BR)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlostiagooliveira-del&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlostiagooliveira-del&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-dados-e-finan%C3%A7as/)
